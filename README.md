@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # DOM-Test
 
 This project is mainly about creating personal portfolio by HTML5, CSS3 and JS.

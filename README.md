@@ -1,13 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Personal-Portfolio
+# DOM-Test
 
 This project is mainly about creating personal portfolio by HTML5 and CSS3.
 
 ## Built With
 
-- Major languages: HTML5,CSS3
-- Technologies used: linters, Lighthouse, Webhint, Stylelint
+- Major languages: HTML5,CSS3,JS
 
 ## Getting Started
 
